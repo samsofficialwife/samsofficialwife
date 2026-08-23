@@ -68,4 +68,12 @@
   <img width="1000" src="https://github.com/samsofficialwife/samsofficialwife/blob/f1b9a3829bd5f37a4fbbb247f77c917eb1cdb595/tumblr_aef2ae5ab521fafd563c1f38e5ab42c0_e30cfbd9_1280.png">
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF3939&width=435&lines=See+how+I+laugh+at+you+.+.;You'll+never+understand+.+.;No+you'll+never+understand+.+.;No+you'll+never+ever+ever+understand+.+." alt="Typing SVG /></a>"</a>
+</p>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsamsofficialwife&label=PAITENTS&labelColor=%23b6d0e2&countColor=%23d9e3f0"/>
+</p>
+
 ![yay](https://github.com/samsofficialwife/samsofficialwife/blob/f1b9a3829bd5f37a4fbbb247f77c917eb1cdb595/tumblr_c57b7816bfc702317b416425eb7070d5_8054ce87_1280.png)
