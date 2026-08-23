@@ -58,7 +58,7 @@
  ${\textsf{\color{#A0522D}"Dni if under 15 !"}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F08000}"Basic Dni . InternAgent . HeadAgent dni ."}}$
+ ${\textsf{\color{#F08000}"Basic Dni . Toxic InternAgent shippers . HeadAgent dni ."}}$
 </p>
 <p align="center">
  ${\textsf{\color{#FFF5EE}"Adult shows . Roblox . TFC . Hellaverse fandoms HEAVY Dni ."}}$
