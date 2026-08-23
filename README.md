@@ -1,4 +1,4 @@
-![me](https://github.com/samsofficialwife/samsofficialwife/blob/f1b9a3829bd5f37a4fbbb247f77c917eb1cdb595/tumblr_ebd25056dc31f3f153a1dc4e12646f47_b0add1d3_1280.png)
+![me](https://github.com/samsofficialwife/samsofficialwife/blob/4c86a379e2e71d8e0fed67cbd79c9eadd37138af/tumblr_aca9449ef9f68c8037d084239f7fba0c_e1b8bec5_1280.png)
 
 <p align="left">
  ${\textsf{\color{#7393B3}"When I saw you for the first time . ."}}$
