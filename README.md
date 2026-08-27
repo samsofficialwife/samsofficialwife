@@ -44,7 +44,7 @@
  ${\textsf{\color{#A0522D}"Sam Yume from AHA . Sharing with friends only ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F08000}"Head Nurse Fictkin . Doubles dni !"}}$
+ ${\textsf{\color{#F08000}"Head Nurse Fictkin . Doubles free 2 int !"}}$
 </p>
 <p align="center">
  ${\textsf{\color{#FFF5EE}"Fem Persian Cat Head Nurse . Male Sam . LIZ IS MY DAUGHTER"}}$
